@@ -14,10 +14,16 @@ Also using:
 - mongojs
 
 Cloud 9 run mongoDB
-'''./mongod
+
+`
+./mongod
+`
 
 Cloud9 run angular2
-go to client folder and npm start
+go to client folder and 
+```
+npm start
+```
 
 started with below video:
 https://www.youtube.com/watch?v=PFP0oXNNveg
