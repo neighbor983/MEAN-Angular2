@@ -1,1 +1,9 @@
 node_modules
+data
+/client/node_modules
+/client/app/app.component.js
+/client/app/app.component.js.map
+/client/app/app.module.js
+/client/app/app.module.js.map
+/client/main.js
+/client/main.js.map
